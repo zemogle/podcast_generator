@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bedtime Stories</title>
+    <itunes:subtitle>Bedtime Stories for an unsettling time</itunes:subtitle>
+    <itunes:author>Edward Gomez</itunes:author>
+    <copyright>© Dark Matter Sheep</copyright>
+    <language>en-gb</language>
+    <itunes:category text="Kids &amp; Family"/>
+    <itunes:image href="http://www.zemogle.net/static/images/BedtimeStories-lg.jpg"/>
+    <link>http://www.zemogle.net/bedtime/</link>
+    <description>Classic and current bedtime stories for all the family narrated by astronomer and science communicator Edward Gomez during the COVID-19 pandemic isolation. These are some of mine and my children's favourites.</description>
+    <itunes:summary>Classic and current bedtime stories for all the family narrated by astronomer and science communicator Edward Gomez. I started reading these for my children and office mates, following self-isolation in March 2020 for COVID-19 pandemic. These are some of mine and my children's favourites.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Edward Gomez</itunes:name>
+      <itunes:email>podcast@gomez.me.uk</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    
+    <item>
+      <title>The Bear, The Piano, The Dog and The Fiddle</title>
+      <itunes:subtitle>The story of a dog who plays the fiddle and tours the world with a big band, which makes his best friend sad.</itunes:subtitle>
+      <itunes:author>David Litchfield</itunes:author>
+      <itunes:summary>The story of a dog who plays the fiddle and tours the world with a big band, which makes his best friend sad.</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/beardogfiddle.mp3" length="7323185" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/beardogfiddle.mp3</guid>
+      <itunes:duration>00:06:23</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Tue, 19 Jan 2021 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>The Polar Express</title>
+      <itunes:subtitle>A magical train journey to the North Pole to meet Santa.</itunes:subtitle>
+      <itunes:author>Chris Van Allsburg</itunes:author>
+      <itunes:summary>A magical train journey to the North Pole to meet Santa.</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/polarexpress.mp3" length="9701473" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/polarexpress.mp3</guid>
+      <itunes:duration>00:08:03</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Wed, 23 Dec 2020 22:30:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>The Squirrels Who Squabbled</title>
+      <itunes:subtitle>Two squirrels want the same pine cone for their late harvest.</itunes:subtitle>
+      <itunes:author>Rachel Bright &amp; Jim Field</itunes:author>
+      <itunes:summary>Two squirrels want the same pine cone for their late harvest.</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/squabblingsquirrels.mp3" length="4833046" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/squabblingsquirrels.mp3</guid>
+      <itunes:duration>00:06:26</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Sun, 29 Nov 2020 22:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>The Sheriff of Rusty Nail</title>
+      <itunes:subtitle>How a sheriff and his pig, deal with a pirate outlaw.</itunes:subtitle>
+      <itunes:author>Sophie Willis</itunes:author>
+      <itunes:summary>How a sheriff and his pig, deal with a pirate outlaw.</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/rustnail.mp3" length="10893991" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/rustnail.mp3</guid>
+      <itunes:duration>00:07:51</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Sun, 18 Oct 2020 13:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>Paddington</title>
+      <itunes:subtitle>The classic story of polite but clumsy bear from Darkest Peru who makes friends with a family in a famous London station.</itunes:subtitle>
+      <itunes:author>Michael Bond</itunes:author>
+      <itunes:summary>The classic story of polite but clumsy bear from Darkest Peru who makes friends with a family in a famous London station.</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/paddington.mp3" length="12312786" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/paddington.mp3</guid>
+      <itunes:duration>00:08:33</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Thu, 17 Sep 2020 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>Room on the Broom</title>
+      <itunes:subtitle>And accident prone witch meets some new friends, and a rather unfriendly dragon.</itunes:subtitle>
+      <itunes:author>Julia Donaldson &amp; Axel Scheffler</itunes:author>
+      <itunes:summary>And accident prone witch meets some new friends, and a rather unfriendly dragon.</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/roomonbroom.mp3" length="7780645" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/roomonbroom.mp3</guid>
+      <itunes:duration>00:05:24</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Tue, 18 Aug 2020 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>We're going on a bear hunt</title>
+      <itunes:subtitle>A classic story, but what happens if you actually find a bear...?</itunes:subtitle>
+      <itunes:author>Michael Rosen</itunes:author>
+      <itunes:summary>A classic story, but what happens if you actually find a bear...?</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/bearhunt.mp3" length="5497961" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/bearhunt.mp3</guid>
+      <itunes:duration>00:03:49</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Sat, 13 Jun 2020 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>A Squash and a Squeeze</title>
+      <itunes:subtitle>A little old lady isn't happy with her little house, until all her animals move in.</itunes:subtitle>
+      <itunes:author>Julia Donaldson &amp; Axel Scheffler</itunes:author>
+      <itunes:summary>A little old lady isn't happy with her little house, until all her animals move in.</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/squash_squeeze.mp3" length="5497961" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/squash_squeeze.mp3</guid>
+      <itunes:duration>00:03:49</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Fri, 12 Jun 2020 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>Dave the Lonely Monster</title>
+      <itunes:subtitle>A lonely Rock n Roll monster befriends a kindly knight</itunes:subtitle>
+      <itunes:author>Anna Kemp &amp; Sara Ogilvie</itunes:author>
+      <itunes:summary>A lonely Rock n Roll monster befriends a kindly knight</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/davelonelymonster.mp3" length="5896067" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/davelonelymonster.mp3</guid>
+      <itunes:duration>00:04:00</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Thu, 7 May 2020 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>The Zax</title>
+      <itunes:subtitle>What happens when a North-going Zax meets a South-going Zax?</itunes:subtitle>
+      <itunes:author>Dr Seuss</itunes:author>
+      <itunes:summary>What happens when a North-going Zax meets a South-going Zax?</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/zax.mp3" length="3284240" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/zax.mp3</guid>
+      <itunes:duration>00:02:10</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Tue, 5 May 2020 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>The Smartest Giant in Town</title>
+      <itunes:subtitle>George is a scruffy giant who gets a new outfit but gives it all away to help new friends</itunes:subtitle>
+      <itunes:author>Julia Donaldson &amp; Axel Scheffler</itunes:author>
+      <itunes:summary>George is a scruffy giant who gets a new outfit but gives it all away to help new friends</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/smartestgiant.mp3" length="9578706" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/smartestgiant.mp3</guid>
+      <itunes:duration>00:06:35</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Fri, 1 May 2020 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>Stickman</title>
+      <itunes:subtitle>The adventure of Stickman as he tries to get back to the family tree</itunes:subtitle>
+      <itunes:author>Julia Donaldson &amp; Axel Scheffler</itunes:author>
+      <itunes:summary>The adventure of Stickman as he tries to get back to the family tree</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/stickman.mp3" length="7681589" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/stickman.mp3</guid>
+      <itunes:duration>00:05:20</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Wed, 29 Apr 2020 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>The Gruffalo</title>
+      <itunes:subtitle>A mouse took a walk in the deep dark, meeting all sorts of creatures, who thought he looked good.</itunes:subtitle>
+      <itunes:author>Julia Donaldson &amp; Axel Scheffler</itunes:author>
+      <itunes:summary>A mouse took a walk in the deep dark, meeting all sorts of creatures, who thought he looked good.</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/thegruffalo.mp3" length="8306647" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/thegruffalo.mp3</guid>
+      <itunes:duration>00:05:46</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Tue, 28 Apr 2020 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>The Elephant and the Bad Baby</title>
+      <itunes:subtitle>An elephant met a bad baby, and they went rumpeta rumpeta rumpeta.</itunes:subtitle>
+      <itunes:author>Elfrida Vipont</itunes:author>
+      <itunes:summary>An elephant met a bad baby, and they went rumpeta rumpeta rumpeta.</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/elephantandbadbaby.mp3" length="7163737" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/elephantandbadbaby.mp3</guid>
+      <itunes:duration>00:04:48</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Wed, 22 Apr 2020 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>A Dollop Of Dragon</title>
+      <itunes:subtitle>A dragon has come to Incrediblania and its demanding half the kingdom.</itunes:subtitle>
+      <itunes:author>Normal Hunter</itunes:author>
+      <itunes:summary>A dragon has come to Incrediblania and its demanding half the kingdom.</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/dollopofdragon.mp3" length="13950977" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/dollopofdragon.mp3</guid>
+      <itunes:duration>00:09:41</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Mon, 6 Apr 2020 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>The Singular Story of the Statue</title>
+      <itunes:subtitle>Be careful of breaking an ugly, royal statue. It could land you in prison.</itunes:subtitle>
+      <itunes:author>Normal Hunter</itunes:author>
+      <itunes:summary>Be careful of breaking an ugly, royal statue. It could land you in prison.</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/singular_story_of_the_statue.mp3" length="19158330" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/singular_story_of_the_statue.mp3</guid>
+      <itunes:duration>00:13:46</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Tue, 31 Mar 2020 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>The Sad Story of Henry</title>
+      <itunes:subtitle>Henry is an engine who is very proud of his green paint but that gets him in a bit of a pickle.</itunes:subtitle>
+      <itunes:author>Rev W Awdry</itunes:author>
+      <itunes:summary>Henry is an engine who is very proud of his green paint but that gets him in a bit of a pickle.</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/sad_story_of_henry.mp3" length="4000204" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/sad_story_of_henry.mp3</guid>
+      <itunes:duration>00:02:46</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Fri, 27 Mar 2020 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>Zog and the Flying Doctors</title>
+      <itunes:subtitle>A dragon, knight and princess make the most unlikely ambulance crew.</itunes:subtitle>
+      <itunes:author>Julia Donaldson &amp; Axel Scheffler</itunes:author>
+      <itunes:summary>A dragon, knight and princess make the most unlikely ambulance crew.</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/zog_flying_doctors.mp3" length="7352446" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/zog_flying_doctors.mp3</guid>
+      <itunes:duration>00:05:05</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Thu, 26 Mar 2020 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>Edward and Gordon</title>
+      <itunes:subtitle>A story of two engines, one proud and fast, the other kind and useful.</itunes:subtitle>
+      <itunes:author>Rev W Awdry</itunes:author>
+      <itunes:summary>A story of two engines, one proud and fast, the other kind and useful.</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/edward_and_gordon.mp3" length="5961896" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/edward_and_gordon.mp3</guid>
+      <itunes:duration>00:04:08</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Wed, 25 Mar 2020 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>The King Must Be Obeyed</title>
+      <itunes:subtitle>If you have an important visitor always make sure you address your envelopes carefully.</itunes:subtitle>
+      <itunes:author>Normal Hunter</itunes:author>
+      <itunes:summary>If you have an important visitor always make sure you address your envelopes carefully.</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/thekingmustbeobeyed.mp3" length="23045977" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/thekingmustbeobeyed.mp3</guid>
+      <itunes:duration>00:16:00</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Tue, 24 Mar 2020 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>Edward's Day Out</title>
+      <itunes:subtitle>Edward the engine finally gets a day out of the shed.</itunes:subtitle>
+      <itunes:author>Rev W Awdry</itunes:author>
+      <itunes:summary>Edward the engine finally gets a day out of the shed.</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/edward_day_out.mp3" length="4249726" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/edward_day_out.mp3</guid>
+      <itunes:duration>00:02:56</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Mon, 23 Mar 2020 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>Zog</title>
+      <itunes:subtitle>The tale of a dragon at school, who isn't very good at being a dragon until he has a little help.</itunes:subtitle>
+      <itunes:author>Julia Donaldson and Axel Scheffler</itunes:author>
+      <itunes:summary>The tale of a dragon at school, who isn't very good at being a dragon until he has a little help.</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/Zog.mp3" length="8317305" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/Zog.mp3</guid>
+      <itunes:duration>00:05:46</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Sun, 22 Mar 2020 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>The Tiger Who Came to Tea</title>
+      <itunes:subtitle>There's a strange visitor at the door, and he looks hungry...</itunes:subtitle>
+      <itunes:author>Judith Kerr</itunes:author>
+      <itunes:summary>There's a strange visitor at the door, and he looks hungry...</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/TheTigerWhoCameToTea.mp3" length="5319910" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/TheTigerWhoCameToTea.mp3</guid>
+      <itunes:duration>00:03:41</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Sat, 21 Mar 2020 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>The Bewitched Breakfast</title>
+      <itunes:subtitle>If you boil one egg for 3 minutes, how long should you boil 100 eggs?</itunes:subtitle>
+      <itunes:author>Norman Hunter</itunes:author>
+      <itunes:summary>If you boil one egg for 3 minutes, how long should you boil 100 eggs?</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/The_bewitched_breakfast.mp3" length="6079133" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/The_bewitched_breakfast.mp3</guid>
+      <itunes:duration>00:09:38</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Fri, 20 Mar 2020 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>The Unexpected Banquet</title>
+      <itunes:subtitle>The Queen of Sundimundee invites a lot of important people to a banquet. She promptly forgets and is forced to improvise in hilarious ways.</itunes:subtitle>
+      <itunes:author>Norman Hunter</itunes:author>
+      <itunes:summary>The Queen of Sundimundee invites a lot of important people to a banquet. She promptly forgets and is forced to improvise in hilarious ways.</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/The_unexpected_banquet.mp3" length="6079133" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/The_unexpected_banquet.mp3</guid>
+      <itunes:duration>00:14:37</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Thu, 19 Mar 2020 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>The King with the Paper</title>
+      <itunes:subtitle>The king of Incrediblania is sick in bed but his court make a puppet to meet with visiting dignataries. A well-meaning fairy causes a bit of commotion by bringing the puppet to life.</itunes:subtitle>
+      <itunes:author>Norman Hunter</itunes:author>
+      <itunes:summary>The king of Incrediblania is sick in bed but his court make a puppet to meet with visiting dignataries. A well-meaning fairy causes a bit of commotion by bringing the puppet to life.</itunes:summary>
+      <enclosure url="http://static.darkmattersheep.uk/bedtime/King_paper_face.mp3" length="24346729" type="audio/mpeg"/>
+      <guid>http://static.darkmattersheep.uk/bedtime/King_paper_face.mp3</guid>
+      <itunes:duration>00:16:54</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>Wed, 18 Mar 2020 21:00:00 -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    
+    <atom:link href="http://www.zemogle.net/bedtime/podcast.xml" rel="self" type="application/rss+xml"/>
+  </channel>
+</rss>

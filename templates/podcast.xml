@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bedtime Stories</title>
+    <itunes:subtitle>Bedtime Stories for an unsettling time</itunes:subtitle>
+    <itunes:author>Edward Gomez</itunes:author>
+    <copyright>© Dark Matter Sheep</copyright>
+    <language>en-gb</language>
+    <itunes:category text="Kids &amp; Family"/>
+    <itunes:image href="http://www.zemogle.net/static/images/BedtimeStories-lg.jpg"/>
+    <link>http://www.zemogle.net/bedtime/</link>
+    <description>Classic and current bedtime stories for all the family narrated by astronomer and science communicator Edward Gomez during the COVID-19 pandemic isolation. These are some of mine and my children's favourites.</description>
+    <itunes:summary>Classic and current bedtime stories for all the family narrated by astronomer and science communicator Edward Gomez. I started reading these for my children and office mates, following self-isolation in March 2020 for COVID-19 pandemic. These are some of mine and my children's favourites.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Edward Gomez</itunes:name>
+      <itunes:email>podcast@gomez.me.uk</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    {% for e in episodes %}
+    <item>
+      <title>{{e.episode.title}}</title>
+      <itunes:subtitle>{{e.episode.summary}}</itunes:subtitle>
+      <itunes:author>{{e.episode.author}}</itunes:author>
+      <itunes:summary>{{e.episode.summary}}</itunes:summary>
+      <enclosure url="{{e.episode.link}}" length="{{e.episode.size}}" type="audio/mpeg"/>
+      <guid>{{e.episode.link}}</guid>
+      <itunes:duration>{{e.episode.duration}}</itunes:duration>
+      <itunes:keywords>coronavirus, children, storytelling</itunes:keywords>
+      <pubDate>{{e.episode.date.strftime('%a, %-d %b %Y %H:%M:%S')}} -0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    {% endfor %}
+    <atom:link href="http://www.zemogle.net/bedtime/podcast.xml" rel="self" type="application/rss+xml"/>
+  </channel>
+</rss>
